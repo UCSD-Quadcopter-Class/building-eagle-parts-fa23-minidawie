@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="50" unitdist="mil" unit="mil" style="lines" multiple="1" display="yes" altdistance="5" altunitdist="mil" altunit="mil"/>
+<grid distance="0.5" unitdist="mm" unit="mm" style="lines" multiple="1" display="yes" altdistance="5" altunitdist="mil" altunit="mil"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
@@ -132,10 +132,10 @@
 <wire x1="2" y1="1.5" x2="-2" y2="1.5" width="0.1524" layer="21"/>
 <circle x="-2.8289375" y="1.361521875" radius="0.077546875" width="1" layer="21"/>
 <text x="-2" y="2" size="0.9" layer="25" font="vector">&gt;Name</text>
-<wire x1="-2.65" y1="2.4" x2="-2.65" y2="-2.4" width="1" layer="39"/>
-<wire x1="-2.65" y1="-2.4" x2="2.65" y2="-2.4" width="1" layer="39"/>
-<wire x1="2.65" y1="-2.4" x2="2.65" y2="2.4" width="1" layer="39"/>
-<wire x1="2.65" y1="2.4" x2="-2.65" y2="2.4" width="1" layer="39"/>
+<wire x1="-2.7" y1="2.4" x2="-2.7" y2="-2.4" width="1" layer="39"/>
+<wire x1="-2.7" y1="-2.4" x2="2.7" y2="-2.4" width="1" layer="39"/>
+<wire x1="2.7" y1="-2.4" x2="2.7" y2="2.4" width="1" layer="39"/>
+<wire x1="2.7" y1="2.4" x2="-2.7" y2="2.4" width="1" layer="39"/>
 <text x="-2" y="-3" size="0.9" layer="27" font="vector">&gt;Value</text>
 <rectangle x1="-0.75" y1="-0.5" x2="0.75" y2="0.5" layer="41"/>
 <rectangle x1="-2" y1="-1.5" x2="2" y2="1.5" layer="42"/>
