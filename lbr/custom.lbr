@@ -132,10 +132,10 @@
 <wire x1="2" y1="1.5" x2="-2" y2="1.5" width="0.1524" layer="21"/>
 <circle x="-2.8289375" y="1.361521875" radius="0.077546875" width="1" layer="21"/>
 <text x="-2" y="2" size="0.9" layer="25" font="vector">&gt;Name</text>
-<wire x1="-2.7" y1="2.4" x2="-2.7" y2="-2.4" width="1" layer="39"/>
-<wire x1="-2.7" y1="-2.4" x2="2.7" y2="-2.4" width="1" layer="39"/>
-<wire x1="2.7" y1="-2.4" x2="2.7" y2="2.4" width="1" layer="39"/>
-<wire x1="2.7" y1="2.4" x2="-2.7" y2="2.4" width="1" layer="39"/>
+<wire x1="-2.4" y1="2.4" x2="-2.4" y2="-2.4" width="1" layer="39"/>
+<wire x1="-2.4" y1="-2.4" x2="2.4" y2="-2.4" width="1" layer="39"/>
+<wire x1="2.4" y1="-2.4" x2="2.4" y2="2.4" width="1" layer="39"/>
+<wire x1="2.4" y1="2.4" x2="-2.4" y2="2.4" width="1" layer="39"/>
 <text x="-2" y="-3" size="0.9" layer="27" font="vector">&gt;Value</text>
 <rectangle x1="-0.75" y1="-0.5" x2="0.75" y2="0.5" layer="41"/>
 <rectangle x1="-2" y1="-1.5" x2="2" y2="1.5" layer="42"/>
