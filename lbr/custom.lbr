@@ -203,7 +203,7 @@
 </polygon>
 <text x="-5.08" y="7.62" size="0.9" layer="95" font="vector">&gt;Name</text>
 </symbol>
-<symbol name="IMU_INEMO_SMD_LSM6DSO">
+<symbol name="IMU_INEMO_SMD">
 <pin name="SDO/SA0" x="-10.16" y="7.62" visible="pad" length="middle"/>
 <pin name="SDX" x="-10.16" y="5.08" visible="pad" length="middle"/>
 <pin name="SCX" x="-10.16" y="2.54" visible="pad" length="middle"/>
@@ -290,10 +290,10 @@
 </deviceset>
 <deviceset name="IMU_LSM6DSOXTR" prefix="U">
 <gates>
-<gate name="G$1" symbol="IMU_INEMO_SMD_LSM6DSO" x="0" y="0"/>
+<gate name="G$1" symbol="IMU_INEMO_SMD" x="0" y="0"/>
 </gates>
 <devices>
-<device name="-IMU-497-18367-1-ND" package="IMU-LSM6DSOXTR">
+<device name="-IMU-497-18367-1-ND-LSM6DS0" package="IMU-LSM6DSOXTR">
 <connects>
 <connect gate="G$1" pin="CS" pad="12"/>
 <connect gate="G$1" pin="GND" pad="6 7"/>
