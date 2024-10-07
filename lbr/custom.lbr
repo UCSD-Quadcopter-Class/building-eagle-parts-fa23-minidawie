@@ -262,7 +262,7 @@
 <attribute name="CREATOR" value="DAVID KOH"/>
 <attribute name="DIST" value="DigiKey"/>
 <attribute name="DISTPN" value="LTST-C170EKT"/>
-<attribute name="VALUE" value="10mA"/>
+<attribute name="VALUE" value="10D"/>
 </technology>
 </technologies>
 </device>
