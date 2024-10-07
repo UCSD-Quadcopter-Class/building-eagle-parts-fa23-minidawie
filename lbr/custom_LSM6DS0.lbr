@@ -288,7 +288,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="IMU_LSM6DS0XTR" prefix="U">
+<deviceset name="IMU_LSM6DSOXTR" prefix="U">
 <gates>
 <gate name="G$1" symbol="IMU_INEMO_SMD" x="0" y="0"/>
 </gates>
