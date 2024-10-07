@@ -293,7 +293,7 @@
 <gate name="G$1" symbol="IMU_INEMO_SMD" x="0" y="0"/>
 </gates>
 <devices>
-<device name="-IMU-497-18367-1-ND-LSM6DS0" package="IMU-LSM6DSOXTR">
+<device name="-IMU-497-18367-1-ND" package="IMU-LSM6DSOXTR">
 <connects>
 <connect gate="G$1" pin="CS" pad="12"/>
 <connect gate="G$1" pin="GND" pad="6 7"/>
